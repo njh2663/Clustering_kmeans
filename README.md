@@ -1,1 +1,3 @@
-# Clustering_kmeans
+## Clustering_kmeans
+
+KMeans Clustering on sklearn's iris data
